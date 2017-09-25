@@ -1,5 +1,6 @@
 import React from 'react';
 // import Bootstrap from 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './Header.jsx';
 import TableRow from './table.jsx';
 class App extends React.Component {
    constructor() {
@@ -33,7 +34,7 @@ class App extends React.Component {
 	
    render() {
       return (
-         <div>
+              <div>
             <Header/>
             <table>
             <thead><tr>
@@ -52,14 +53,6 @@ class App extends React.Component {
    }
 }
 
-class Header extends React.Component {
-   render() {
-      return (
-         <div>
-            <h1>Header</h1>
-         </div>
-      );
-   }
-}
+
 
 export default App;
