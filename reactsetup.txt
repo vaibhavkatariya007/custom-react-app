@@ -21,6 +21,9 @@ https://reacttraining.com/react-router/web/example/basic
 https://serverless-stack.com/chapters/handle-routes-with-react-router.html
 https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md
 
+https://code.tutsplus.com/tutorials/understanding-how-to-handle-routing-in-react--cms-27355
+
+
 bootstrap set up react 
 
 http://blog.burgettweb.net/2017/01/07/using-bootstrap-with-create-react-app/
@@ -29,3 +32,5 @@ LEARN:
 https://blog.andrewray.me/reactjs-for-stupid-people/
 https://scotch.io/tutorials/learning-react-getting-started-and-concepts
 https://codeforgeek.com/2015/05/expressjs-router-tutorial/
+
+https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/
