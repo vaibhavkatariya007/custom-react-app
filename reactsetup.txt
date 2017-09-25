@@ -1,0 +1,31 @@
+REACT:  SETUP using Npm
+
+https://www.codecademy.com/articles/react-setup-v
+
+
+https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
+
+
+http://blog.tamizhvendan.in/blog/2015/11/23/a-beginner-guide-to-setup-react-dot-js-environment-using-babel-6-and-webpack/
+
+
+https://gist.github.com/Jimeno0/a057b24643c0d082eb9098a5fa36dc8a
+
+https://www.fullstackreact.com/p/using-webpack-with-create-react-app/
+
+
+
+Router 
+https://www.youtube.com/watch?v=Q2xkPS4G9rg
+https://reacttraining.com/react-router/web/example/basic
+https://serverless-stack.com/chapters/handle-routes-with-react-router.html
+https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md
+
+bootstrap set up react 
+
+http://blog.burgettweb.net/2017/01/07/using-bootstrap-with-create-react-app/
+
+LEARN: 
+https://blog.andrewray.me/reactjs-for-stupid-people/
+https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+https://codeforgeek.com/2015/05/expressjs-router-tutorial/
